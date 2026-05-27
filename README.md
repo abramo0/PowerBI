@@ -1,4 +1,4 @@
-# 📊 Power BI Portfolio – Azer Abramo
+# 📊 Power BI Portfolio
 
 Welcome to my Power BI portfolio!  
 I am a data enthusiast focused on transforming raw data into meaningful insights through interactive dashboards and business intelligence solutions.
