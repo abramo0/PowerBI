@@ -1,16 +1,17 @@
-# 📊 Power BI Portfolio
+# 📊 Power BI Portfolio – Azer Abramo
 
 Welcome to my Power BI portfolio!  
-This repository showcases a collection of projects focused on data analysis, business intelligence, and interactive dashboard design.
+I am a data enthusiast focused on transforming raw data into meaningful insights through interactive dashboards and business intelligence solutions.
 
 ---
 
-## 🚀 Key Areas
+## 🚀 Key Skills
 
-- 📈 Business Intelligence
-- 📊 Data Analysis
-- 🎨 Dashboard Design
+- 📈 Business Intelligence & Data Visualization
+- 📊 Data Analysis & Insights Generation
+- 🎨 Dashboard Design (UX-focused)
 - ⏱️ Time Series Analysis
+- 🧠 Data Modeling & DAX
 
 ---
 
@@ -18,7 +19,7 @@ This repository showcases a collection of projects focused on data analysis, bus
 
 | Project | Description | Tools |
 |---|---|---|
-| [⚡ Energy Consumption Dashboard](./energy-consumption-dashboard) | Exploratory analysis of household electricity usage to identify patterns and optimize consumption | Power BI, DAX, Power Query |
+| ⚡ [Energy Consumption Dashboard](./energy-consumption-dashboard) | Analyzed household electricity usage to uncover consumption patterns and identify cost-saving opportunities through interactive dashboards. | Power BI, DAX, Power Query |
 
 ---
 
@@ -32,21 +33,24 @@ This repository showcases a collection of projects focused on data analysis, bus
 
 ---
 
-## 📌 About This Portfolio
+## 📌 What I Focus On
 
-The goal of this portfolio is to demonstrate:
-- Data visualization best practices
-- Analytical thinking
-- Ability to transform raw data into actionable insights
+In my projects, I aim to:
+
+- Transform raw data into actionable insights  
+- Design clear and intuitive dashboards  
+- Apply data storytelling techniques  
+- Deliver business-oriented analysis  
 
 Each project includes:
-- Data preparation process
-- Key metrics and KPIs
+- Data cleaning and transformation
+- KPI definition and tracking
 - Interactive dashboards
-- Business insights and conclusions
+- Key insights and recommendations
 
 ---
 
 ## 📬 Contact
 
-If you're interested in collaborating or have feedback, feel free to reach out!
+- 💼 LinkedIn: [Abramo Azer](https://it.linkedin.com/in/abramo-azer-229610299)  
+- 💻 GitHub: [Abramo Azer](https://github.com/abramo0)
