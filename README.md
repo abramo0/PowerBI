@@ -19,9 +19,11 @@ I am a data enthusiast focused on transforming raw data into meaningful insights
 
 | Project | Description | Tools |
 |---|---|---|
-| ⚡ [Energy Consumption Dashboard](./energy-consumption) | Analyzed household electricity usage to uncover consumption patterns and identify cost-saving opportunities through interactive dashboards. | Power BI, DAX, Power Query |
+| 📊 [Sales Performance Dashboard](./sales_performance) | Analyzed sales data across regions, product categories, and customer segments to identify key revenue drivers and business opportunities. | Power BI, DAX, Power Query |
 
 ---
+
+```
 
 ## 🛠️ Tools & Technologies
 
