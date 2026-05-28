@@ -54,7 +54,7 @@ In Excel, the following preprocessing steps were performed:
 - Removed duplicate records
 - Corrected data formats (dates, numeric values, text standardization)
 
-dataset obtained: sales_performance_dataset_excel.csv
+dataset obtained: sales_performance_dataset_clean.csv
 
 
 ## 2️⃣ Data Cleaning (Power BI)
