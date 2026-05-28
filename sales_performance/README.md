@@ -56,9 +56,8 @@ In Excel, the following preprocessing steps were performed:
 
 dataset obtained: sales_performance_dataset_clean.csv
 
----
 
-## 3️⃣ Data Cleaning (Power BI)
+## 2️⃣ Data Cleaning (Power BI)
 In Power BI (Power Query), additional data preparation was performed:
 
 - Checked and handled missing values
@@ -67,7 +66,7 @@ In Power BI (Power Query), additional data preparation was performed:
 
 ---
 
-## 4️⃣ Exploratory Data Analysis
+## 3️⃣ Exploratory Data Analysis
 In Python, an initial exploratory analysis was performed to understand the dataset.
 
 - Checked data distribution and structure
@@ -78,7 +77,7 @@ Tools used: Pandas, Matplotlib
 
 ---
 
-## 5️⃣ Data Modeling
+## 4️⃣ Data Modeling
 In Power BI, a relational data model was created to structure the dataset.
 
 - Defined relationships between tables
@@ -87,7 +86,7 @@ In Power BI, a relational data model was created to structure the dataset.
 
 ---
 
-## 6️⃣ KPI Development
+## 5️⃣ KPI Development
 In Power BI, key business metrics were created using DAX.
 
 - Total Sales
@@ -97,7 +96,7 @@ In Power BI, key business metrics were created using DAX.
 
 ---
 
-## 7️⃣ Dashboard Design
+## 6️⃣ Dashboard Design
 In Power BI, an interactive dashboard was built for data visualization.
 
 - Created charts and visual elements
@@ -106,7 +105,7 @@ In Power BI, an interactive dashboard was built for data visualization.
 
 ---
 
-## 8️⃣ Insights Analysis
+## 7️⃣ Insights Analysis
 In Power BI, insights were extracted from the visual analysis.
 
 - Identified sales trends over time
